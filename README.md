@@ -8,3 +8,8 @@
   - datetime
   - urllib.request
   - bs4 (BeautifulSoup)
+  
+## About the Files
+  - symbols.ipynb
+  - df_symbols.csv
+  - symbols_file.txt
