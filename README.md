@@ -1,6 +1,8 @@
-# Easy And Fun With BeautifulSoup
-
 ### Under the process of uploading files 
+
+# Easy And Fun With BeautifulSoup.   
+
+Web scraping Yahoo Finance page collecting stock data
 
 ## Packages Used
   - re
