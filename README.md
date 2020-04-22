@@ -2,7 +2,7 @@
 
 # Easy And Fun With BeautifulSoup.   
 
-Web scraping Yahoo Finance page collecting stock data
+Web scraping Yahoo Finance page to collect stock data.
 
 ## Packages Used
   - re
@@ -13,5 +13,6 @@ Web scraping Yahoo Finance page collecting stock data
   
 ## About the Files
   - symbols.ipynb
+    - The symbols.ipynb file writes the stock symbols as .csv and .txt files. 
   - df_symbols.csv
   - symbols_file.txt
