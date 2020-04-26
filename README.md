@@ -15,5 +15,5 @@ Web scraping Yahoo Finance page to collect stock data.
   - symbols.ipynb
     - The symbols.ipynb file writes the stock symbols as .csv and .txt files. 
   - df_symbols.csv
-    - The df_symbols.csv file is created by the symbols.ipynb file to be used later. 
+    - The df_symbols.csv file it will be used to pass stock symbols to the provided URL. 
   - symbols_file.txt
