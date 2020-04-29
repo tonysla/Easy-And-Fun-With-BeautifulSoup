@@ -1,4 +1,4 @@
-### README is still to be complete
+### README is still work in progress
 
 # Easy And Fun With BeautifulSoup.   
 
