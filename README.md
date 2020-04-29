@@ -1,11 +1,10 @@
-### Under the process of uploading files 
+### README is still to be complete
 
 # Easy And Fun With BeautifulSoup.   
 
 Web scraping Yahoo Finance page to collect stock data.
 
 ## Packages Used
-  - re
   - pandas
   - datetime
   - urllib.request
