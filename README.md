@@ -11,6 +11,7 @@ Web scraping Yahoo Finance page to collect stock data.
   - bs4 (BeautifulSoup)
   
 ## About the Files
+  - yahoo_stock_data.ipynb
   - symbols.ipynb
     - The symbols.ipynb file writes the stock symbols as .csv and .txt files. 
   - df_symbols.csv
