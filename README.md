@@ -10,10 +10,12 @@ Web scraping Yahoo Finance page to collect stock data.
   - urllib.request
   - bs4 (BeautifulSoup)
   
-## About the Files
-  - yahoo_stock_data.ipynb
+## About the File. 
   - symbols.ipynb
     - The symbols.ipynb file writes the stock symbols as .csv and .txt files. 
   - df_symbols.csv
     - The df_symbols.csv file it will be used to pass stock symbols to the provided URL. 
   - symbols_file.txt
+    - Choose 'symbols_file.txt' symbol data instead of the 'df_symbols.csv' if you so wish.
+  - yahoo_stock_data.ipynb
+    - This is the main file that will call the symbol data and use them to collect the stock data from Yahoo Finance page. 
