@@ -1,4 +1,4 @@
-,Date,company_name,price_at_close,price_change,price_after_hours,previous_close,today opened,price range,52 week range,volume,average volume,market cap,beta (3Y Monthly),PE Ratio,EPS,earnings date,Dividend Yield,1Y target est
+ID,Date,company_name,price_at_close,price_change,price_after_hours,previous_close,today opened,price range,52 week range,volume,average volume,market cap,beta (3Y Monthly),PE Ratio,EPS,earnings date,Dividend Yield,1Y target est
 1,Apr 28 2020,XOM - Exxon Mobil Corporation,44.97,+1.03 (+2.34%),44.97,43.94,44.37,44.11 - 45.39,30.11 - 80.53,"25,289,901","38,672,771",190.242B,1.27,13.39,3.36,1-May-20,3.48 (7.92%),47.13
 2,Apr 28 2020,OXY - Occidental Petroleum Corporation,15.17,+1.02 (+7.21%),15.17,14.15,14.46,14.30 - 15.26,9.00 - 60.73,"45,496,862","37,022,361",13.908B,1.75,N/A,-1.22,5-May-20,0.44 (3.19%),15.12
 3,Apr 28 2020,CVX - Chevron Corporation,89.91,+0.20 (+0.22%),89.91,89.71,89.55,88.83 - 90.96,51.60 - 127.00,"10,152,429","14,838,419",167.86B,1.18,58.38,1.54,1-May-20,5.16 (5.75%),90.62
